@@ -16,7 +16,7 @@ Folder structure options and naming conventions of the project.
 ## Backend
 
 see backend [README](./aerialoop-backend/README.MD)
-W
+
 ## Frontend
 see frontend [README](./aerialoop-frontend/README.MD)
 
